@@ -1,0 +1,1 @@
+input=("aprendendo algoritimo")
